@@ -1,0 +1,87 @@
+.carl{
+    height: 280px !important;
+    border: #345BE5 solid 2px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 2px gray;
+    color: #345BE5;
+}
+.rasm{
+    width: 60%;
+    height: 120px;
+    border-radius: 10px ;
+    margin: 0 auto;
+    border: #345BE5 2px solid;
+}
+.butt{
+    background-color: white;
+    border: #345BE5 solid 2px;
+    border-radius: 10px;
+    color: #345BE5;
+    font-weight: bold;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-shadow: 1px 1px 2px gray;
+}
+.butt:hover{
+    background-color: #345BE5;
+    color: white;
+}
+.search{
+    width: 60%;
+    margin: 20px auto;
+    text-align: center;
+    border: 1px solid #345BE5;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px gray;
+}
+.middle{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px auto;
+}
+.Maininp input{
+    width: 50px;
+    border: 2px solid #345BE5;
+    border-radius: 5px;
+}
+.middle select{
+    width: 120px;
+    border: 2px solid #345BE5;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px gray;
+    color: #345BE5;
+    font-weight: bold;
+}
+.main{
+    width: 60%;
+    margin: 20px auto;
+}
+.top .tugma{
+    background-color: white;
+    color: #345BE5;
+    font-size: Inter;
+    border: #345BE5 solid 2px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px gray;
+    padding: 5px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    text-align: center;
+    margin: 20px auto;
+}
+.rise{
+    background-color: #345BE5;
+    border-radius: 50%;
+}
+.titl{
+    color: #345BE5;
+}
